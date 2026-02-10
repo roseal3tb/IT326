@@ -8,7 +8,8 @@ In addition, clustering methods are used to group patients with similar characte
 jjjjjjjjj
 
 # Student names
-Rose Alatawi
-Rahaf Aldameqh
-Qmash Alzabin
-Ghadi Altamimi
+Rose Alatawi 445203025
+Rahaf Aldameqh 445202198
+Qmash Alzabin 445201240
+Ghadi Altamimi 445200298
+Lina Alodhibi 445203108
