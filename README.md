@@ -10,7 +10,11 @@ We chose this topic (predicting heart diseases) because it addresses a major hea
 
 # Student names
 Rose Alatawi 445203025
+
 Rahaf Aldameqh 445202198
+
 Qmash Alzabin 445201240
+
 Ghadi Altamimi 445200298
+
 Lina Alodhibi 445203108
